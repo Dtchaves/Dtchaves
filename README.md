@@ -15,12 +15,6 @@
   />
 </picture>
 
-<br>
-
-<img src="./metrics.plugin.languages.svg" width="600">
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/diogotulerchaves/">
   <img
     width="32"
