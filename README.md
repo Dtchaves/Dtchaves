@@ -1,17 +1,11 @@
 <div align="center">
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Dtchaves&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://raw.githubusercontent.com/Dtchaves/Dtchaves/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/diogotulerchaves/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/diogo.tuler.chaves" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/diogotulerchaves/">
+  <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
 </a>
 
 </div>
